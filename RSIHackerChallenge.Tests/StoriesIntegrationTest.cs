@@ -1,12 +1,5 @@
-﻿using System.Net.Http;
-using System.Threading.Tasks;
-using Castle.Components.DictionaryAdapter.Xml;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc.Testing;
-using Newtonsoft.Json;
-using NUnit.Framework;
+﻿using Newtonsoft.Json;
 using RSIHackerChallenge.Data;
-using RSIHackerChallenge.Tests;
 
 [TestFixture]
 public class IntegrationTests

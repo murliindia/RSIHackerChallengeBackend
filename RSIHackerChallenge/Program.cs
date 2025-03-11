@@ -2,7 +2,11 @@ using Microsoft.OpenApi.Models;
 using RSIHackerChallenge.Business.Interfaces;
 using RSIHackerChallenge.Business.Services;
 using RSIHackerChallenge.Data;
+using System.Diagnostics.CodeAnalysis;
 
+#if !DEBUG
+[ExcludeFromCodeCoverage]
+#endif
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
