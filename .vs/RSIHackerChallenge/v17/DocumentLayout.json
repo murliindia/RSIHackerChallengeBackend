@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C8C9705-9D7A-45A0-8FF7-8CA780043E5D}|RSIHackerChallenge\\RSIHackerChallenge.API.csproj|d:\\rsi project\\news\\assignmnet\\rsihackerchallenge\\rsihackerchallenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C8C9705-9D7A-45A0-8FF7-8CA780043E5D}|RSIHackerChallenge\\RSIHackerChallenge.API.csproj|solutionrelative:rsihackerchallenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{884642FF-7B8B-4504-ABA0-18D9E74B897B}|RSIHackerChallenge.Tests\\RSIHackerChallenge.Tests.csproj|d:\\rsi project\\news\\assignmnet\\rsihackerchallenge\\rsihackerchallenge.tests\\serviceconfigurationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{884642FF-7B8B-4504-ABA0-18D9E74B897B}|RSIHackerChallenge.Tests\\RSIHackerChallenge.Tests.csproj|solutionrelative:rsihackerchallenge.tests\\serviceconfigurationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{52F5D044-34EB-4B64-9CCA-138D95A71F78}|RSIHackerChallenge.Data\\RSIHackerChallenge.Data.csproj|solutionrelative:rsihackerchallenge.data\\configurationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8C9705-9D7A-45A0-8FF7-8CA780043E5D}|RSIHackerChallenge\\RSIHackerChallenge.API.csproj|d:\\rsi project\\news\\assignmnet\\rsihackerchallenge\\rsihackerchallenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C8C9705-9D7A-45A0-8FF7-8CA780043E5D}|RSIHackerChallenge\\RSIHackerChallenge.API.csproj|solutionrelative:rsihackerchallenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C8C9705-9D7A-45A0-8FF7-8CA780043E5D}|RSIHackerChallenge\\RSIHackerChallenge.API.csproj|d:\\rsi project\\news\\assignmnet\\rsihackerchallenge\\rsihackerchallenge\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C8C9705-9D7A-45A0-8FF7-8CA780043E5D}|RSIHackerChallenge\\RSIHackerChallenge.API.csproj|solutionrelative:rsihackerchallenge\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServiceConfigurationTests.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\ServiceConfigurationTests.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\ServiceConfigurationTests.cs",
@@ -111,20 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProgramExtensions.cs",
-              "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\ProgramExtensions.cs",
-              "RelativeDocumentMoniker": "RSIHackerChallenge\\ProgramExtensions.cs",
-              "ToolTip": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\ProgramExtensions.cs",
-              "RelativeToolTip": "RSIHackerChallenge\\ProgramExtensions.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:25:56.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StoriesIntegrationTest.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\StoriesIntegrationTest.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\StoriesIntegrationTest.cs",
@@ -132,8 +119,7 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\StoriesIntegrationTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:04:13.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T08:04:13.493Z"
             },
             {
               "$type": "Document",
@@ -149,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "StoriesControllerTest.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\StoriesControllerTest.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\StoriesControllerTest.cs",
@@ -161,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "StoryService.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Business\\Services\\StoryService.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Business\\Services\\StoryService.cs",
@@ -185,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StoryServiceTests.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\StoryServiceTests.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\StoryServiceTests.cs",
@@ -193,12 +179,11 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\StoryServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:09:45.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T10:09:45.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\Program.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge\\Program.cs",
@@ -206,12 +191,36 @@
               "RelativeToolTip": "RSIHackerChallenge\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:07:07.18Z",
+              "WhenOpened": "2025-03-04T08:07:07.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RSIHackerChallenge\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RSIHackerChallenge\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T08:04:38.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ProgramExtensions.cs",
+              "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\ProgramExtensions.cs",
+              "RelativeDocumentMoniker": "RSIHackerChallenge\\ProgramExtensions.cs",
+              "ToolTip": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\ProgramExtensions.cs",
+              "RelativeToolTip": "RSIHackerChallenge\\ProgramExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:25:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\GlobalUsings.cs",
@@ -219,12 +228,11 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:11:49.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T08:11:49.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MiddlewareTests.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\MiddlewareTests.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\MiddlewareTests.cs",
@@ -232,12 +240,11 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\MiddlewareTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:29:24.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:29:24.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProgramExtensionsTests.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\ProgramExtensionsTests.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\ProgramExtensionsTests.cs",
@@ -245,8 +252,7 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\ProgramExtensionsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:28:08.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:28:08.531Z"
             },
             {
               "$type": "Document",
@@ -262,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Data\\ApiResponse.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Data\\ApiResponse.cs",
@@ -274,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IStoryService.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Business\\Interfaces\\IStoryService.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Business\\Interfaces\\IStoryService.cs",
@@ -286,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RSIHackerChallenge.Tests.csproj",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\RSIHackerChallenge.Tests.csproj",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\RSIHackerChallenge.Tests.csproj",
@@ -294,12 +300,11 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\RSIHackerChallenge.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T10:09:32.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T10:09:32.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TestHttpMessageHandler.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Tests\\TestHttpMessageHandler.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Tests\\TestHttpMessageHandler.cs",
@@ -307,12 +312,11 @@
               "RelativeToolTip": "RSIHackerChallenge.Tests\\TestHttpMessageHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:04:18.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T08:04:18.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Story.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Data\\Story.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Data\\Story.cs",
@@ -324,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ConfigurationSettings.cs",
               "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge.Data\\ConfigurationSettings.cs",
               "RelativeDocumentMoniker": "RSIHackerChallenge.Data\\ConfigurationSettings.cs",
@@ -333,18 +337,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T08:02:47.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RSIHackerChallenge\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\RSI Project\\News\\Assignmnet\\RSIHackerChallenge\\RSIHackerChallenge\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RSIHackerChallenge\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T08:04:38.108Z"
             }
           ]
         }
